@@ -20,6 +20,20 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         runMap.put(R.id.main_btn_exam01, Exam01.class);
+        runMap.put(R.id.main_btn_exam02, Exam02.class);
+        runMap.put(R.id.main_btn_exam03, Exam03.class);
+        runMap.put(R.id.main_btn_exam04, Exam04.class);
+        runMap.put(R.id.main_btn_exam05, Exam05.class);
+        runMap.put(R.id.main_btn_exam06, Exam06.class);
+        runMap.put(R.id.main_btn_exam07, Exam07.class);
+        runMap.put(R.id.main_btn_exam08, Exam08.class);
+        runMap.put(R.id.main_btn_exam09, Exam09.class);
+        runMap.put(R.id.main_btn_exam10, Exam10.class);
+        runMap.put(R.id.main_btn_exam11, Exam11.class);
+        runMap.put(R.id.main_btn_exam12, Exam12.class);
+
+        runMap.put(R.id.main_btn_prac01, Prac01.class);
+        runMap.put(R.id.main_btn_prac02, Prac02.class);
     }
 
     public void btnChecked(View v){

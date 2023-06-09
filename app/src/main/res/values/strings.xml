@@ -1,5 +1,19 @@
 <resources>
     <string name="app_name">강의 13장 멀티미디어와구글지도</string>
 
-    <string name="main_btn_exam01">26~37 -실습 12-2 가수 그룹 관리 DB 만들기</string>
+    <string name="main_btn_exam01">6~8 오디오</string>
+    <string name="main_btn_exam02">10~17 실습 13-1 간단 MP3 플레이어 만들기</string>
+    <string name="main_btn_exam03">18~24 실습 13-1 간단 MP3 플레이어 만들기(SD)</string>
+    <string name="main_btn_exam04">25~28 직접풀어보기 13-1 개선(todo 아직안함)</string>
+    <string name="main_btn_exam05">30~34 프로그레스바와 시크바</string>
+    <string name="main_btn_exam06">36~43 스레드의 기본</string>
+    <string name="main_btn_exam07">44~49 UI 스레드</string>
+    <string name="main_btn_exam08">50~53 스레드의 응용 (음악 플레이어에서 \n재생 진행 상태와 시간을 나타내는 예제)</string>
+    <string name="main_btn_exam09">54~56 직접풀어보기 13-2(todo 아직안함)</string>
+    <string name="main_btn_exam10">57~79 google map</string>
+    <string name="main_btn_exam11">81~90 google map 응용</string>
+    <string name="main_btn_exam12">91~95 직접풀어보기 13-3(todo 아직안함) 구글지도 응용</string>
+
+    <string name="main_btn_prac01">연습문제 5</string>
+    <string name="main_btn_prac02">연습문제 6</string>
 </resources>
